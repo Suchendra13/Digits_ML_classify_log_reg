@@ -22,7 +22,7 @@ The primary goal of this project is to implement and evaluate a Logistic Regress
 
 The project uses the `load_digits` dataset available in `sklearn.datasets`.
 * **Source**: Scikit-learn's `load_digits` dataset.
-* **Description**: This dataset consists of 1,797 8x8 pixel grayscale images of handwritten digits (0 through 9).
+* **Description**: This dataset consists of 1,797 8x8 pixel grayscale images of handwritten digits (0 to 9).
 * **Features (X)**: Each image is represented by a 64-dimensional array (8x8 pixels), where each value represents the pixel intensity. Pixel intensity values range from 0 to 16.
 * **Target (y)**: The corresponding digit (0-9) that each image represents.
 
